@@ -1,0 +1,17 @@
+#AS215595 SparkTech LTD Geofeed
+#Last Update:20240415
+#prefix,country_code,region_code,city,postal
+#HK
+154.64.154.0/22,HK,,Tsuen Wan,
+#SJC-US
+154.64.128.0/22,US,US-CA,San Jose,
+#KSCity-US
+154.64.150.0/22,US,US-MO,Kansas City,
+#FFM-DE
+154.64.146.0/24,DE,DE-HE,Frankfurt am Main,
+154.64.147.0/24,DE,DE-HE,Frankfurt am Main,
+154.64.148.0/24,DE,DE-HE,Frankfurt am Main,
+#SP-BR
+154.64.149.0/24,BR,BR-SP,Sao Paulo,
+154.64.158.0/24,BR,BR-SP,Sao Paulo,
+154.64.159.0/24,BR,BR-SP,Sao Paulo,
