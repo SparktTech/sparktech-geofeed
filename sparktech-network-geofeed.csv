@@ -20,6 +20,14 @@
 154.64.151.0/24,US,US-MO,Kansas City,
 154.64.152.0/24,US,US-MO,Kansas City,
 154.64.153.0/24,US,US-MO,Kansas City,
+#Ashburn-WA
+154.3.20.0/24,US,US-WA,Washington,
+154.3.21.0/24,US,US-WA,Washington,
+154.3.22.0/24,US,US-WA,Washington,
+154.3.23.0/24,US,US-WA,Washington,
+154.3.24.0/24,US,US-WA,Washington,
+154.3.25.0/24,US,US-WA,Washington,
+154.3.26.0/24,US,US-WA,Washington,
 #FFM-DE
 154.64.146.0/24,DE,DE-HE,Frankfurt am Main,
 154.64.147.0/24,DE,DE-HE,Frankfurt am Main,
